@@ -1,5 +1,3 @@
 # Weather-World-Wide-App
 
-My first app made with HTML/CSS/JS and API.
-![Weather](C:\Users\petar\OneDrive\Desktop\Stefan\UX Design&Web Development\WebDevApp\Weather World Wide App Image.png)
-
+![Weather World Wide App Image](https://github.com/stefanuxdev/Weather-World-Wide-App/assets/126104302/065af83d-0c1d-46ce-b5f0-b6bc34064439)
